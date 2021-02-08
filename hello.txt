@@ -1,4 +1,5 @@
 Iam your friend
 After commit edited.
 next git add --all
-new branch feature commit
+new branch feature commit.
+next is merge.
