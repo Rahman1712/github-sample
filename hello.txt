@@ -1,3 +1,4 @@
 Iam your friend
 After commit edited.
 next git add --all
+new branch feature commit
