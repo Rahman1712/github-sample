@@ -4,3 +4,10 @@ next git add --all
 new branch feature commit.
 next is merge.
 NEXT for recursive merge first edit hello.txt file at MASTER branch then checKout to FEATURE branch ....
+
+
+conflict in merging (recursive)
+
+what is this 
+
+
